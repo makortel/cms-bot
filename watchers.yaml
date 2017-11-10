@@ -106,7 +106,7 @@ makortel:
   - DQM/Integration
   - DQM/Track
   - EventFilter/Si
-  - FWCore/Utilities
+  - FWCore
   - Geometry/Track
   - Geometry/CommonTopologies
   - HLTrigger/Configuration
@@ -121,6 +121,7 @@ makortel:
   - SimDataFormats/Vertex
   - SimG4Core
   - SimG4CMS
+  - SimGeneral/DataMixingModule
   - SimGeneral/MixingModule
   - SimGeneral/TrackingAnalysis
   - SimTracker
